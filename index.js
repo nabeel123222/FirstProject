@@ -1,3 +1,3 @@
-a=1
-b=1
-console.log(a+b);
+a=10
+b=10
+console.log(a*b);
